@@ -27,21 +27,7 @@ The proposed system aims to:
 # System Architecture
 
 High-level system pipeline:
-Infrastructure Metrics
-↓
-Data Collection Layer
-↓
-AI Workload Prediction Model
-↓
-AI Resource Demand Model
-↓
-Capacity-Aware VM Recommendation Engine
-↓
-Heterogeneous VM Placement Optimizer
-↓
-Explainable Decision Engine
-↓
-Infrastructure Dashboard
+Infrastructure Metrics > Data Collection Layer > AI Workload Prediction Model > AI Resource Demand Model > Capacity-Aware VM Recommendation Engine > Heterogeneous VM Placement Optimizer > Explainable Decision Engine > Infrastructure Dashboard
 
 ---
 
